@@ -1,0 +1,5 @@
+C:\Users\IEUser\Desktop\MB_Prototipo1\MB_Prototipo1\bin\Debug\MB_Prototipo1.exe
+C:\Users\IEUser\Desktop\MB_Prototipo1\MB_Prototipo1\bin\Debug\MB_Prototipo1.pdb
+C:\Users\IEUser\Desktop\MB_Prototipo1\MB_Prototipo1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\MB_Prototipo1\MB_Prototipo1\obj\x86\Debug\MB_Prototipo1.exe
+C:\Users\IEUser\Desktop\MB_Prototipo1\MB_Prototipo1\obj\x86\Debug\MB_Prototipo1.pdb
